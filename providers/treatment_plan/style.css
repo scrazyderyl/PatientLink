@@ -5,15 +5,20 @@
 .heading {
     font-size: 28px;
     font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.parameter {
+    margin-top: 6px;
 }
 
 .label {
     float: left;
-    margin-right: 10px;
+    margin-right: 20px;
 }
 
-input {
-    margin-right: 10px;
+.add-drugs {
+    margin-top: 10px;
 }
 
 .field {
@@ -21,6 +26,8 @@ input {
 }
 
 .field p {
+    display: flex;
+    align-items: center;
     font-size: 24px;
     font-weight: bold;
     float: left;
@@ -28,4 +35,5 @@ input {
 
 .field button {
     margin-left: 20px;
+    margin-top: 4px;
 }

@@ -2,7 +2,7 @@ body {
     margin: 0;
 }
 
-p, a, th {
+p, a, td, th {
     font-family: Arial, Helvetica, sans-serif;
     margin: 0;
 }

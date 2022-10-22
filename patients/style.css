@@ -1,3 +1,10 @@
+.user-name {
+    font-size: 20px;
+    white-space: nowrap;
+    margin-right: 40px;
+    font-weight: bold;
+}
+
 .dashboard {
     padding: 30px;
 }
