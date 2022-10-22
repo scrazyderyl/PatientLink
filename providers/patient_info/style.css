@@ -1,0 +1,81 @@
+.action {
+    margin-top: 30px;
+}
+
+.edit-treatment {
+    margin-left: 3%;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.name p{
+    margin-top: 2%;
+    margin-bottom: 2%;
+    margin-left: 3%;
+}
+
+.dob p{
+    margin-bottom: 2%;
+    margin-left: 3%;
+}
+
+.bp p{
+    margin-left: 3%;
+}
+
+.bpm p{
+    margin-left: 3%;
+}
+
+.gluc p{
+    margin-bottom: 5%;
+    margin-left: 3%;
+}
+
+.phys p{
+    margin-left: 3%;
+}
+
+.dist p{
+    margin-bottom: 5%;
+    margin-left: 7%;
+}
+
+.calbur p {
+    margin-bottom: 5%;
+    margin-left: 7%;
+}
+
+.meds p{
+    margin-left: 3%;
+}
+
+.type p {
+    margin-bottom: 1%;
+    margin-left: 7%;
+}
+
+.frequency p {
+    margin-bottom: 1%;
+    margin-left: 7%;
+}
+
+.bolded { font-weight: bold; }
+
+table{
+    width: 200px;
+    margin-left: 4%;
+    margin-bottom: 3%;
+}
+
+th {
+    text-align: left;
+    margin-left: 4%;
+    margin-bottom: 3%;
+}
+
+table, th, td{
+    padding: 15px;
+    border: 1px solid black;
+    border-collapse: collapse;
+}

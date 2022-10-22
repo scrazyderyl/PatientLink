@@ -1,0 +1,31 @@
+.content {
+    padding: 30px;
+}
+
+.heading {
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.label {
+    float: left;
+    margin-right: 10px;
+}
+
+input {
+    margin-right: 10px;
+}
+
+.field {
+    margin-top: 30px;
+}
+
+.field p {
+    font-size: 24px;
+    font-weight: bold;
+    float: left;
+}
+
+.field button {
+    margin-left: 20px;
+}
